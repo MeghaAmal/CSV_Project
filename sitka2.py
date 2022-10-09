@@ -35,7 +35,7 @@ plt.xlabel("July 2018",fontsize=16)
 plt.ylabel("Temperature (F)",fontsize=16)
 plt.tick_params(axis="both",which ="major",labelsize=16)
 
-#just for dates to format it
+# for dates to format it
 fig.autofmt_xdate()
 
 
